@@ -140,6 +140,6 @@ console.log(words);
 
 //3. loose equality ==  vs strict equality ===
 // loose equality only compares values   strict equality compares values and data types
-//4.
+//5.
 // type conversion You manually convert from one type to another using built-in functions.
 //type coersion JavaScript **automatically** converts types when needed.
