@@ -5,7 +5,7 @@ let str = "123";
 console.log(str - -7);
 
 //2.
-let y = 1;
+let y = 0;
 if (y == false) {
   console.log("invalid");
 } else {
